@@ -1,0 +1,6 @@
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\12강\star\bin\Debug\star.exe.config
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\12강\star\bin\Debug\star.exe
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\12강\star\bin\Debug\star.pdb
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\12강\star\obj\Debug\star.csprojAssemblyReference.cache
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\12강\star\obj\Debug\star.exe
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\12강\star\obj\Debug\star.pdb
