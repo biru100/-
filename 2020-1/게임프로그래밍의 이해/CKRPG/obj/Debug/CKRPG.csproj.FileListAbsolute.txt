@@ -1,0 +1,6 @@
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\CKRPG\bin\Debug\CKRPG.exe.config
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\CKRPG\bin\Debug\CKRPG.exe
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\CKRPG\bin\Debug\CKRPG.pdb
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\CKRPG\obj\Debug\CKRPG.csprojAssemblyReference.cache
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\CKRPG\obj\Debug\CKRPG.exe
+C:\Users\gywkd\Desktop\University-assignment\게임프로그래밍의 이해\CKRPG\obj\Debug\CKRPG.pdb
