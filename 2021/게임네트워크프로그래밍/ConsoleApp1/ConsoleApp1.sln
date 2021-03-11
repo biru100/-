@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpClient", "ConsoleApp1\TcpClient.csproj", "{6D166314-D3E7-47D2-8AEC-E0DE44049F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamTcpSrvr", "StreamTcpSrvr\StreamTcpSrvr.csproj", "{560CD505-61FB-4380-9777-F9322FA946DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D166314-D3E7-47D2-8AEC-E0DE44049F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D166314-D3E7-47D2-8AEC-E0DE44049F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D166314-D3E7-47D2-8AEC-E0DE44049F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D166314-D3E7-47D2-8AEC-E0DE44049F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560CD505-61FB-4380-9777-F9322FA946DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560CD505-61FB-4380-9777-F9322FA946DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560CD505-61FB-4380-9777-F9322FA946DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560CD505-61FB-4380-9777-F9322FA946DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A29712DC-45B1-4A47-BAC9-249056D2A73A}
+	EndGlobalSection
+EndGlobal

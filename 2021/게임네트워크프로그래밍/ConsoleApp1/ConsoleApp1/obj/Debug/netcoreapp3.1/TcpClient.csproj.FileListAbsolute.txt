@@ -1,0 +1,13 @@
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.exe
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.deps.json
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.runtimeconfig.json
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.runtimeconfig.dev.json
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.dll
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.pdb
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.csprojAssemblyReference.cache
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.AssemblyInfoInputs.cache
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.AssemblyInfo.cs
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.dll
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.pdb
+C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.genruntimeconfig.cache

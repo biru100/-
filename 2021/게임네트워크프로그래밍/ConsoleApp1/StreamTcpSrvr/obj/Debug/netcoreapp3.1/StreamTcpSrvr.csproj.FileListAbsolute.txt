@@ -1,0 +1,13 @@
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.exe
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.deps.json
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.runtimeconfig.json
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.runtimeconfig.dev.json
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.dll
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.pdb
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.csprojAssemblyReference.cache
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.AssemblyInfoInputs.cache
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.AssemblyInfo.cs
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.csproj.CoreCompileInputs.cache
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.dll
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.pdb
+C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.genruntimeconfig.cache
