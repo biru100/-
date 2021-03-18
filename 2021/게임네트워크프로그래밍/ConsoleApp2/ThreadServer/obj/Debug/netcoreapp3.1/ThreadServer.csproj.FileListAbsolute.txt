@@ -1,0 +1,13 @@
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\bin\Debug\netcoreapp3.1\ThreadServer.exe
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\bin\Debug\netcoreapp3.1\ThreadServer.deps.json
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\bin\Debug\netcoreapp3.1\ThreadServer.runtimeconfig.json
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\bin\Debug\netcoreapp3.1\ThreadServer.runtimeconfig.dev.json
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\bin\Debug\netcoreapp3.1\ThreadServer.dll
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\bin\Debug\netcoreapp3.1\ThreadServer.pdb
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.csprojAssemblyReference.cache
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.AssemblyInfoInputs.cache
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.AssemblyInfo.cs
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.csproj.CoreCompileInputs.cache
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.dll
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.pdb
+C:\Users\Hyo\source\repos\ConsoleApp2\ThreadServer\obj\Debug\netcoreapp3.1\ThreadServer.genruntimeconfig.cache
