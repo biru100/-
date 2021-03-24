@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hyo\\source\\repos\\ConsoleApp2\\ThreadServer\\ThreadServer.csproj",
+      "projectUniqueName": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp2\\ThreadServer\\ThreadServer.csproj",
       "projectName": "ThreadServer",
-      "projectPath": "C:\\Users\\Hyo\\source\\repos\\ConsoleApp2\\ThreadServer\\ThreadServer.csproj",
+      "projectPath": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp2\\ThreadServer\\ThreadServer.csproj",
       "packagesPath": "C:\\Users\\Hyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hyo\\source\\repos\\ConsoleApp2\\ThreadServer\\obj\\",
+      "outputPath": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp2\\ThreadServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
