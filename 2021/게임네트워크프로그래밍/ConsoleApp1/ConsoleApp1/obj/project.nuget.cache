@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "3ST5CaJT2tIbSkSUDZ+x5PAF60s2BEDtpIXZAMibI2J7NnVYfLUHrRxzyvQdGakv25eyP/WU3tD93A9LqbbgqA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj",
+=======
+  "dgSpecHash": "Tmgcyt9RySTeUlq+WUqclv9rjfjE1Zrjnadg0hG1eUcuYDHVpgOT5J5rxuanJYpC7l4TQnEYo08sydwqo2Ujyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

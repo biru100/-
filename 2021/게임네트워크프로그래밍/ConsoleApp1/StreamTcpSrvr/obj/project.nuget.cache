@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "YmliEAfOOH4pBtZBzUl5x4+xIVKcKI75heTA/N3cod4wvQiEJCLcEEilE8Tyql8nBAYpkOkzPIog3ux1D/J+Zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\StreamTcpSrvr\\StreamTcpSrvr.csproj",
+=======
+  "dgSpecHash": "UKFDdPhMAyYpbgf2wEtwFUa9QxKOhqG4PP8l1xSh43XDMpKhpa8IKo3AJl5DrlimyLBF990MfmmXFtwu7yopaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\StreamTcpSrvr\\StreamTcpSrvr.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

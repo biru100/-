@@ -11,3 +11,16 @@ C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpCli
 C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.dll
 C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.pdb
 C:\Users\Hyo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.genruntimeconfig.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.exe
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.deps.json
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.runtimeconfig.json
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.runtimeconfig.dev.json
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.dll
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TcpClient.pdb
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.csprojAssemblyReference.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.AssemblyInfoInputs.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.AssemblyInfo.cs
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.dll
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.pdb
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TcpClient.genruntimeconfig.cache

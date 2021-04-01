@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj",
         "packagesPath": "C:\\Users\\Hyo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Hyo\\Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\obj\\",
+=======
+    "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj",
+        "projectName": "TcpClient",
+        "projectPath": "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\TcpClient.csproj",
+        "packagesPath": "C:\\Users\\gywkd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gywkd\\Desktop\\GitHub Desktop\\University-assignment\\2021\\게임네트워크프로그래밍\\ConsoleApp1\\ConsoleApp1\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gywkd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +40,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +52,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

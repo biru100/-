@@ -11,3 +11,16 @@ C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\Stre
 C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.dll
 C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.pdb
 C:\Users\Hyo\source\repos\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.genruntimeconfig.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.exe
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.deps.json
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.runtimeconfig.json
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.runtimeconfig.dev.json
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.dll
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\bin\Debug\netcoreapp3.1\StreamTcpSrvr.pdb
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.csprojAssemblyReference.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.AssemblyInfoInputs.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.AssemblyInfo.cs
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.csproj.CoreCompileInputs.cache
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.dll
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.pdb
+C:\Users\gywkd\Desktop\GitHub Desktop\University-assignment\2021\게임네트워크프로그래밍\ConsoleApp1\StreamTcpSrvr\obj\Debug\netcoreapp3.1\StreamTcpSrvr.genruntimeconfig.cache
